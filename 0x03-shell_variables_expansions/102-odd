@@ -1,0 +1,2 @@
+#!/bin/bash
+Poste - - | cut -f1
