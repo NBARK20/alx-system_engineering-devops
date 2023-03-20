@@ -1,3 +1,6 @@
 #!/bin/bash
 printf '%x\n' $DECIMAL
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6be2dd17b0afd62898629c6c242d7c0bb6cf7b22
